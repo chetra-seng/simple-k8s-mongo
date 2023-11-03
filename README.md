@@ -1,0 +1,1 @@
+# Simple K8S Mongo Set up
